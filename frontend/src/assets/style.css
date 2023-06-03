@@ -1,0 +1,7 @@
+.banner{
+    background: url(./bgimg.avif);
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
